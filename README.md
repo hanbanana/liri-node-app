@@ -6,20 +6,24 @@
 ### Installs
 The package.json lists dependent node packages, but for your convenvice, these are the ones to install.
 
-```
+
 Twitter
+```
 npm install twitter
 ```
-```
+
 Spotify
+```
 npm install node-spotify-api
 ```
-```
+
 Request
+```
 npm install request
 ```
-```
+
 FS
+```
 npm install fs
 ```
 
